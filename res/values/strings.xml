@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Campagna PD</string>
+    <string name="title_news">Notizie</string>
+    <string name="title_cal">Calendario</string>
+    <string name="title_program">Il programma</string>
+    <string name="title_candidates">I candidati</string>
+
+</resources>
